@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 8,
+      "name": "John Doe",
+      "username": "john",
+      "email": "johndoe@example.com",
+      "phone": "1-770-736-8011",
+      "website": "test@.com"
+    },
+    {
+      "name": "حسین غلامی ",
+      "email": "hoseingholamii1376@gmail.com",
+      "phone": "09371606733",
+      "id": 9
+    },
+    {
+      "name": "امیر",
+      "email": "test@gmail.com",
+      "phone": "09184872685",
+      "id": 10
+    }
+  ]
+}
